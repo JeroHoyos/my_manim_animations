@@ -1,0 +1,12 @@
+# Archivos de renderizado de Manim
+media/
+__pycache__/
+*.mp4
+*.png
+*.wav
+*.log
+
+# Entornos virtuales
+venv/
+env/
+.env
